@@ -1,0 +1,10 @@
+# Direction calculation + steered generation (src/compute_direction.py, src/generate.py)
+# Tested with Python 3.11.
+torch==2.5.1
+transformer_lens==2.17.0
+transformers==4.57.6
+numpy==1.26.4
+tqdm==4.67.1
+
+# NOTE: The LLM-as-judge evaluation (see paper) is run in a separate vLLM
+# environment and is not required to reproduce steering/generation.

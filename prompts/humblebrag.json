@@ -1,0 +1,11 @@
+{
+  "task": "humblebrag",
+  "plain": "Paraphrase the sentence in exactly one sentence.",
+  "style": [
+    "Paraphrase the sentence in exactly one sentence as a complaint-based humblebrag. The sentence should sound like a complaint or expression of frustration, while implicitly bragging about something related to the original sentence's theme.",
+    "Rewrite the sentence in exactly one sentence as a humblebrag disguised as a complaint. Infer the brag theme from the original sentence (such as work, ability, success, appearance, or social life), and frame the brag as something inconvenient or annoying.",
+    "Produce a one-sentence complaint-style humblebrag paraphrase of the sentence. The surface tone should express dissatisfaction or annoyance, while subtly highlighting a positive trait or achievement implied by the original sentence.",
+    "Express the sentence as a complaint-based humblebrag in a single sentence. Maintain the original topic, and present the implied brag as an unwanted burden or frustration.",
+    "Create a complaint-style humblebrag paraphrase in exactly one sentence. Base the underlying brag on what the original sentence is about, and disguise it by framing the situation as bothersome or inconvenient."
+  ]
+}

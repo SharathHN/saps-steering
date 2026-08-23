@@ -1,0 +1,11 @@
+{
+  "task": "sarcasm",
+  "plain": "Paraphrase the sentence in exactly one sentence.",
+  "style": [
+    "Paraphrase the sentence sarcastically in exactly one sentence. The sentence should sound superficially positive or approving, but include clear cues of dissatisfaction or criticism within the sentence itself.",
+    "Rewrite the sentence in exactly one sentence using sarcasm. Use positive or approving wording that clearly implies criticism or dissatisfaction.",
+    "Produce a one-sentence sarcastic paraphrase of the sentence. The wording should appear positive on the surface while signaling negative intent.",
+    "Express the sentence sarcastically in a single sentence. The sentence should convey criticism through superficially positive language.",
+    "Create a sarcastic paraphrase in exactly one sentence, using apparent approval that clearly conveys dissatisfaction."
+  ]
+}
